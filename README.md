@@ -14,4 +14,5 @@ Il codice  Python di seguito riportato, visualizza la la precessione del perieli
 Dopo il caricamento delle librerie necessarie, si definiscono i parametri per la correzione relativistica del moto di mercurio e si visualizza l'orbita risultante.
 
 E' possibile avviare l'animazione con i pulsanti in alto, con diverse velocità. L'orbita risultante (la correzione relativistica è amplificata per renderla visibile) è mostrata nella figura seguente:
+
 ![](https://github.com/Belcamino/Ex1.Precessione/blob/master/precessione.png?raw=true)
